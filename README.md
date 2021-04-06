@@ -50,8 +50,8 @@
 - Пишем по порядку:
   - cd
   - pkg install -y git python
-  - git clone https://github.com/
-- Редактируем файл `config.json` командой `nano /config.json`. Для удобного редактирования можно скачать [приложение Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard), в нём в горизонтальном положении есть стрелочки для управления курсором.
+  - git clone https://github.com/hudoils/vk-peoplestore-bot
+- Редактируем файл `config.json` командой `nano vk-peoplestore-bot/config.json`. Для удобного редактирования можно скачать [приложение Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard), в нём в горизонтальном положении есть стрелочки для управления курсором.
 - Чтобы получить `authorization` с телефона, используем [приложение F12](https://play.google.com/store/apps/details?id=com.asfmapps.f12):
   - authorization:
     - Открываем приложение F12, заходим на [сайт мобильного ВКонтакте](https://m.vk.com) и авторизуемся.
